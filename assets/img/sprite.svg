@@ -1,0 +1,7 @@
+<!-- Стилі для scss при використанні спрайтів -->
+<!-- Для обгортки (div, a , span ...):
+        - width (px), height (px), padding, transition
+     Для тегу svg:
+        - width (100%), height (100%), flex (для вирівнювання)
+     Для тегу use:
+        - кольори для svg -->
